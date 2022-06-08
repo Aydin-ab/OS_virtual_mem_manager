@@ -1,0 +1,342 @@
+0: ==> c 0
+1: ==> r 7
+ ZERO
+ MAP 0
+2: ==> r 11
+ ZERO
+ MAP 1
+3: ==> r 18
+ ZERO
+ MAP 2
+4: ==> r 30
+ ZERO
+ MAP 3
+5: ==> r 13
+ ZERO
+ MAP 4
+6: ==> r 40
+ ZERO
+ MAP 5
+7: ==> r 20
+ ZERO
+ MAP 6
+8: ==> w 37
+ ZERO
+ MAP 7
+9: ==> w 5
+ ZERO
+ MAP 8
+10: ==> w 33
+ ZERO
+ MAP 9
+11: ==> r 31
+ ZERO
+ MAP 10
+12: ==> r 0
+ ZERO
+ MAP 11
+13: ==> r 12
+ ZERO
+ MAP 12
+14: ==> r 20
+15: ==> r 40
+16: ==> r 41
+ ZERO
+ MAP 13
+17: ==> w 7
+18: ==> r 6
+ ZERO
+ MAP 14
+19: ==> r 0
+20: ==> r 0
+21: ==> r 0
+22: ==> r 22
+ ZERO
+ MAP 15
+23: ==> r 30
+24: ==> r 9
+ UNMAP 0:7
+ OUT
+ ZERO
+ MAP 0
+25: ==> r 59
+ UNMAP 0:11
+ ZERO
+ MAP 1
+26: ==> w 54
+ UNMAP 0:18
+ ZERO
+ MAP 2
+27: ==> r 2
+ UNMAP 0:30
+ ZERO
+ MAP 3
+28: ==> w 62
+ UNMAP 0:13
+ ZERO
+ MAP 4
+29: ==> r 16
+ UNMAP 0:40
+ ZERO
+ MAP 5
+30: ==> r 47
+ UNMAP 0:20
+ ZERO
+ MAP 6
+31: ==> r 58
+ UNMAP 0:37
+ OUT
+ ZERO
+ MAP 7
+32: ==> r 1
+ UNMAP 0:5
+ OUT
+ ZERO
+ MAP 8
+33: ==> r 30
+ UNMAP 0:33
+ OUT
+ ZERO
+ MAP 9
+34: ==> r 35
+ UNMAP 0:31
+ ZERO
+ MAP 10
+35: ==> r 55
+ UNMAP 0:0
+ ZERO
+ MAP 11
+36: ==> r 57
+ UNMAP 0:12
+ ZERO
+ MAP 12
+37: ==> w 20
+ UNMAP 0:41
+ ZERO
+ MAP 13
+38: ==> r 17
+ UNMAP 0:6
+ ZERO
+ MAP 14
+39: ==> r 28
+ UNMAP 0:22
+ ZERO
+ MAP 15
+40: ==> r 42
+ UNMAP 0:9
+ ZERO
+ MAP 0
+41: ==> r 21
+ UNMAP 0:59
+ ZERO
+ MAP 1
+42: ==> r 3
+ UNMAP 0:54
+ OUT
+ ZERO
+ MAP 2
+43: ==> r 29
+ UNMAP 0:2
+ ZERO
+ MAP 3
+44: ==> r 47
+45: ==> w 23
+ UNMAP 0:62
+ OUT
+ ZERO
+ MAP 4
+46: ==> r 2
+ UNMAP 0:16
+ ZERO
+ MAP 5
+47: ==> r 10
+ UNMAP 0:58
+ ZERO
+ MAP 7
+48: ==> r 26
+ UNMAP 0:1
+ ZERO
+ MAP 8
+49: ==> w 12
+ UNMAP 0:30
+ ZERO
+ MAP 9
+50: ==> r 22
+ UNMAP 0:35
+ ZERO
+ MAP 10
+51: ==> r 54
+ UNMAP 0:55
+ IN
+ MAP 11
+52: ==> r 5
+ UNMAP 0:57
+ IN
+ MAP 12
+53: ==> r 45
+ UNMAP 0:20
+ OUT
+ ZERO
+ MAP 13
+54: ==> r 17
+55: ==> r 4
+ UNMAP 0:28
+ ZERO
+ MAP 15
+56: ==> r 54
+57: ==> r 45
+58: ==> w 2
+59: ==> r 2
+60: ==> w 15
+ UNMAP 0:42
+ ZERO
+ MAP 0
+61: ==> r 27
+ UNMAP 0:21
+ ZERO
+ MAP 1
+62: ==> r 61
+ UNMAP 0:3
+ ZERO
+ MAP 2
+63: ==> w 25
+ UNMAP 0:29
+ ZERO
+ MAP 3
+64: ==> r 33
+ UNMAP 0:47
+ IN
+ MAP 6
+65: ==> w 39
+ UNMAP 0:23
+ OUT
+ ZERO
+ MAP 4
+66: ==> r 63
+ UNMAP 0:10
+ ZERO
+ MAP 7
+67: ==> r 25
+68: ==> r 61
+69: ==> r 33
+70: ==> r 38
+ UNMAP 0:26
+ ZERO
+ MAP 8
+71: ==> w 23
+ UNMAP 0:12
+ OUT
+ IN
+ MAP 9
+72: ==> r 15
+73: ==> r 31
+ UNMAP 0:22
+ ZERO
+ MAP 10
+74: ==> r 36
+ UNMAP 0:5
+ ZERO
+ MAP 12
+75: ==> r 13
+ UNMAP 0:17
+ ZERO
+ MAP 14
+76: ==> r 10
+ UNMAP 0:4
+ ZERO
+ MAP 15
+77: ==> w 20
+ UNMAP 0:2
+ OUT
+ IN
+ MAP 5
+78: ==> r 34
+ UNMAP 0:54
+ ZERO
+ MAP 11
+79: ==> w 39
+80: ==> r 41
+ UNMAP 0:45
+ ZERO
+ MAP 13
+81: ==> r 19
+ UNMAP 0:27
+ ZERO
+ MAP 1
+82: ==> r 3
+ UNMAP 0:61
+ ZERO
+ MAP 2
+83: ==> w 51
+ UNMAP 0:25
+ OUT
+ ZERO
+ MAP 3
+84: ==> r 11
+ UNMAP 0:33
+ ZERO
+ MAP 6
+85: ==> r 19
+86: ==> w 13
+87: ==> w 29
+ UNMAP 0:63
+ ZERO
+ MAP 7
+88: ==> r 7
+ UNMAP 0:38
+ IN
+ MAP 8
+89: ==> r 1
+ UNMAP 0:23
+ OUT
+ ZERO
+ MAP 9
+90: ==> w 53
+ UNMAP 0:15
+ OUT
+ ZERO
+ MAP 0
+91: ==> r 52
+ UNMAP 0:31
+ ZERO
+ MAP 10
+92: ==> r 8
+ UNMAP 0:36
+ ZERO
+ MAP 12
+93: ==> r 15
+ UNMAP 0:10
+ IN
+ MAP 15
+94: ==> w 12
+ UNMAP 0:20
+ OUT
+ IN
+ MAP 5
+95: ==> r 5
+ UNMAP 0:34
+ IN
+ MAP 11
+96: ==> r 25
+ UNMAP 0:39
+ OUT
+ IN
+ MAP 4
+97: ==> r 43
+ UNMAP 0:41
+ ZERO
+ MAP 13
+98: ==> r 22
+ UNMAP 0:3
+ ZERO
+ MAP 2
+99: ==> r 36
+ UNMAP 0:51
+ OUT
+ ZERO
+ MAP 3
+100: ==> r 8
+PT[0]: * 1:--- # * * 5:--S * 7:--S 8:R-- * * 11:--- 12:-MS 13:-M- * 15:--S * * * 19:--- # * 22:--- # * 25:--S * * * 29:-M- * * * # * * 36:R-- # * # * * * 43:--- * * * * * * * # 52:--- 53:-M- # * * * * * * * # *
+FT: 0:53 0:19 0:22 0:36 0:25 0:12 0:11 0:29 0:7 0:1 0:52 0:5 0:8 0:43 0:13 0:15
+PROC[0]: U=63 M=79 I=10 O=16 FI=0 FO=0 Z=69 SV=0 SP=0
+TOTALCOST 101 1 0 132990 4

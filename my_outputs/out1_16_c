@@ -1,0 +1,101 @@
+0: ==> c 0
+1: ==> r 14
+ ZERO
+ MAP 0
+2: ==> w 51
+ ZERO
+ MAP 1
+3: ==> r 15
+ ZERO
+ MAP 2
+4: ==> w 55
+ ZERO
+ MAP 3
+5: ==> r 43
+ ZERO
+ MAP 4
+6: ==> r 10
+ ZERO
+ MAP 5
+7: ==> w 11
+ ZERO
+ MAP 6
+8: ==> r 37
+ ZERO
+ MAP 7
+9: ==> w 20
+ ZERO
+ MAP 8
+10: ==> r 41
+ ZERO
+ MAP 9
+11: ==> w 38
+ ZERO
+ MAP 10
+12: ==> r 0
+ ZERO
+ MAP 11
+13: ==> r 30
+ ZERO
+ MAP 12
+14: ==> r 15
+15: ==> r 13
+ ZERO
+ MAP 13
+16: ==> r 44
+ ZERO
+ MAP 14
+17: ==> r 21
+ ZERO
+ MAP 15
+18: ==> r 37
+19: ==> w 28
+ UNMAP 0:14
+ ZERO
+ MAP 0
+20: ==> r 56
+ UNMAP 0:51
+ OUT
+ ZERO
+ MAP 1
+21: ==> r 31
+ UNMAP 0:15
+ ZERO
+ MAP 2
+22: ==> r 4
+ UNMAP 0:55
+ OUT
+ ZERO
+ MAP 3
+23: ==> w 38
+24: ==> w 48
+ UNMAP 0:43
+ ZERO
+ MAP 4
+25: ==> r 3
+ UNMAP 0:10
+ ZERO
+ MAP 5
+26: ==> r 5
+ UNMAP 0:11
+ OUT
+ ZERO
+ MAP 6
+27: ==> w 5
+28: ==> r 24
+ UNMAP 0:37
+ ZERO
+ MAP 7
+29: ==> r 8
+ UNMAP 0:20
+ OUT
+ ZERO
+ MAP 8
+30: ==> w 1
+ UNMAP 0:41
+ ZERO
+ MAP 9
+PT[0]: 0:--- 1:RM- * 3:R-- 4:R-- 5:RM- * * 8:R-- * * # * 13:--- * * * * * * # 21:--- * * 24:R-- * * * 28:RM- * 30:--- 31:R-- * * * * * * 38:RM- * * * * * 44:--- * * * 48:RM- * * # * * * # 56:R-- * * * * * * *
+FT: 0:28 0:56 0:31 0:4 0:48 0:3 0:5 0:24 0:8 0:1 0:38 0:0 0:30 0:13 0:44 0:21
+PROC[0]: U=10 M=26 I=0 O=4 FI=0 FO=0 Z=26 SV=0 SP=0
+TOTALCOST 31 1 0 26400 4

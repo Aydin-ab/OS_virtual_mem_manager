@@ -1,0 +1,42 @@
+#process/vma/page reference generator
+#	procs=1 #vmas=1 #inst=30 pages=64 %read=50.000000 lambda=1.400000
+#	holes=0 wprot=0 mmap=0 seed=3200
+1
+#### process 0
+#
+1
+0 63 0 0
+#### instruction simulation ######
+c 0
+w 14
+w 8
+w 24
+w 39
+w 6
+w 5
+r 31
+w 56
+r 27
+w 5
+w 3
+r 11
+r 14
+w 13
+w 30
+w 20
+r 16
+w 25
+w 29
+r 22
+w 61
+w 4
+w 13
+r 3
+w 51
+r 25
+r 36
+w 4
+r 34
+r 38
+#page reference histogram
+#0: 0 0 0 2 2 2 1 0 1 0 0 1 0 2 2 0 1 0 0 0 1 0 1 0 1 2 0 1 0 1 1 1 0 0 1 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 
